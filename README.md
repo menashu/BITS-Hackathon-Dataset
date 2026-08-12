@@ -53,8 +53,8 @@ Plus:
 
 - `document_index.csv` — `doc_id`, `doc_type`, `filename`, `size_bytes`. **It deliberately does not
   tell you which document is about which project or client.** Working that out is part of the task.
-- `questions.json` — **the 333 questions you must answer.**
-- `sample_questions.json` — 21 worked examples with answers and reasoning, to calibrate against.
+- `questions.json` — **the 371 questions you must answer.**
+- `sample_questions.json` — 23 worked examples with answers and reasoning, to calibrate against.
 - `evaluate.py` — the exact scorer we will run, so you can measure yourself.
 - `sample_submission.csv` — the submission format.
 
@@ -98,7 +98,7 @@ must be read out of that project's own certificate. Four documents minimum, ofte
 
 ## What the questions look like
 
-All 21 examples are in `sample_questions.json`, with answers and a step-by-step derivation. Three of
+All 23 examples are in `sample_questions.json`, with answers and a step-by-step derivation. Three of
 them:
 
 > **Regarding Asha Nair’s PMP work on the Cable Stayed Bridge — Jharkhand Pkg-115, what is the defensible average size across all completed projects for the commissioning client?**
@@ -121,7 +121,7 @@ kinds of question you will be scored on, only easier.
 
 ## The questions to answer
 
-`questions.json` contains **333 questions**. Answer every one of them.
+`questions.json` contains **371 questions**. Answer every one of them.
 
 ```json
 {"qid": "HV-IC-0001", "question": "Starting with Rajesh Rao's Six Sigma Black Belt ...", "answer_type": "money"}
@@ -150,7 +150,7 @@ HV-IC-0003,90.19
   - count → `5`
   - days → `1388`
 - Decimals are fine where the answer needs them. Round percentages to two places.
-- **Answer all 333.** An unanswered question scores 0, and a wrong answer costs nothing extra —
+- **Answer all 371.** An unanswered question scores 0, and a wrong answer costs nothing extra —
   there is no penalty for guessing.
 - Row order does not matter. Extra columns are ignored.
 
@@ -164,7 +164,7 @@ Each question is scored on how close you are:
 score = max(0, 1 - |your answer - correct answer| / correct answer)
 ```
 
-Your final score is the average across all 333 questions.
+Your final score is the average across all 371 questions.
 
 | your answer is | score |
 |---|---|
@@ -187,14 +187,6 @@ python evaluate.py --submission my_answers.csv \
 ```
 
 ---
-
----
-
-## Tie-breaker
-
-The top ten teams on the leaderboard will be asked to submit the code for their harness. We will run
-that harness against a further set of hidden questions, and the final leaderboard will be published
-on those results.
 
 ## Rules
 

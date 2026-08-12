@@ -1,0 +1,3056 @@
+{
+  "projects": [
+    {
+      "id": "DOC-CCC-001",
+      "name": "RCC Bridge \u2014 Gujarat Pkg-1",
+      "client": "National Special Projects Office",
+      "category": "Bridges Flyovers",
+      "value": 333800000,
+      "completion_date": "2011-02-06",
+      "lead": "Suresh Desai",
+      "client_certificate_ref": "CC/34/2011/001",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-001.pdf",
+        "documents\\completion_certificate\\DOC-CC-001.pdf",
+        "documents\\reference_letter\\DOC-REF-001.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-002",
+      "name": "WTP Augmentation \u2014 Uttar Pradesh Pkg-2",
+      "client": "Mega Infrastructure Authority",
+      "category": "Water Treatment",
+      "value": 248500000,
+      "completion_date": "2013-01-11",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-002.pdf",
+        "documents\\completion_certificate\\DOC-CC-002.pdf",
+        "documents\\reference_letter\\DOC-REF-002.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-003",
+      "name": "STP \u2014 Gujarat Pkg-3",
+      "client": "Public Works Department, Govt of Gujarat",
+      "category": "Sewerage Drainage",
+      "value": 209200000,
+      "completion_date": "2016-04-11",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-003.pdf",
+        "documents\\completion_certificate\\DOC-CC-003.pdf",
+        "documents\\reference_letter\\DOC-REF-003.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-004",
+      "name": "Residential Quarters \u2014 Odisha Pkg-4",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Buildings",
+      "value": 112300000,
+      "completion_date": "2023-05-17",
+      "lead": "Suresh Desai",
+      "client_certificate_ref": "CC/28/2023/004",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-004.pdf",
+        "documents\\completion_certificate\\DOC-CC-004.pdf",
+        "documents\\reference_letter\\DOC-REF-004.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-005",
+      "name": "Substation EPC \u2014 Madhya Pradesh Pkg-5",
+      "client": "Suvarna Projects Limited",
+      "category": "Industrial Epc",
+      "value": 244100000,
+      "completion_date": "2012-04-26",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-005.pdf",
+        "documents\\completion_certificate\\DOC-CC-005.pdf",
+        "documents\\reference_letter\\DOC-REF-005.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-006",
+      "name": "Lift Irrigation \u2014 Odisha Pkg-6",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Irrigation",
+      "value": 243100000,
+      "completion_date": "2020-02-07",
+      "lead": "Jaya Desai",
+      "client_certificate_ref": "CC/57/2020/006",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-006.pdf",
+        "documents\\completion_certificate\\DOC-CC-006.pdf"
+      ],
+      "quality": null,
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-007",
+      "name": "Rigid Pavement \u2014 Madhya Pradesh Pkg-7",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Roads Highways",
+      "value": 375200000,
+      "completion_date": "2020-05-09",
+      "lead": "Amit Iyer",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-007.pdf",
+        "documents\\completion_certificate\\DOC-CC-007.pdf",
+        "documents\\reference_letter\\DOC-REF-006.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-008",
+      "name": "Flyover \u2014 Gujarat Pkg-8",
+      "client": "Meridian Constructors & Co.",
+      "category": "Bridges Flyovers",
+      "value": 170800000,
+      "completion_date": "2010-11-17",
+      "lead": "Kavita Reddy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-008.pdf",
+        "documents\\completion_certificate\\DOC-CC-008.pdf",
+        "documents\\reference_letter\\DOC-REF-007.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-009",
+      "name": "WTP Augmentation \u2014 Tamil Nadu Pkg-9",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Water Treatment",
+      "value": 113200000,
+      "completion_date": "2024-04-17",
+      "lead": "Meera Chatterjee",
+      "client_certificate_ref": "CC/10/2024/009",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-009.pdf",
+        "documents\\completion_certificate\\DOC-CC-009.pdf",
+        "documents\\reference_letter\\DOC-REF-008.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-010",
+      "name": "Sewerage Network \u2014 Rajasthan Pkg-10",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Sewerage Drainage",
+      "value": 234800000,
+      "completion_date": "2011-05-03",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-010.pdf",
+        "documents\\completion_certificate\\DOC-CC-010.pdf",
+        "documents\\reference_letter\\DOC-REF-009.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-011",
+      "name": "Institutional Building \u2014 Uttar Pradesh Pkg-11",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Buildings",
+      "value": 240500000,
+      "completion_date": "2024-10-08",
+      "lead": "Amit Mukherjee",
+      "client_certificate_ref": "CC/45/2024/011",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-011.pdf",
+        "documents\\completion_certificate\\DOC-CC-011.pdf",
+        "documents\\reference_letter\\DOC-REF-010.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-012",
+      "name": "Material Handling Plant \u2014 Jharkhand Pkg-12",
+      "client": "Jal Nigam, Jharkhand",
+      "category": "Industrial Epc",
+      "value": 730200000,
+      "completion_date": "2020-07-27",
+      "lead": "Imran Joshi",
+      "client_certificate_ref": "CC/7/2020/012",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-012.pdf",
+        "documents\\completion_certificate\\DOC-CC-012.pdf",
+        "documents\\reference_letter\\DOC-REF-011.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-013",
+      "name": "Lift Irrigation \u2014 West Bengal Pkg-13",
+      "client": "Suvarna Projects Limited",
+      "category": "Irrigation",
+      "value": 232000000,
+      "completion_date": "2021-06-04",
+      "lead": "Divya Singh",
+      "client_certificate_ref": "CC/12/2021/013",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-013.pdf",
+        "documents\\completion_certificate\\DOC-CC-013.pdf",
+        "documents\\reference_letter\\DOC-REF-012.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-014",
+      "name": "Road Widening \u2014 West Bengal Pkg-14",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Roads Highways",
+      "value": 101100000,
+      "completion_date": "2024-09-30",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": "CC/25/2024/014",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-014.pdf",
+        "documents\\completion_certificate\\DOC-CC-014.pdf",
+        "documents\\reference_letter\\DOC-REF-013.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-015",
+      "name": "Flyover \u2014 Delhi Pkg-15",
+      "client": "Suvarna Projects Limited",
+      "category": "Bridges Flyovers",
+      "value": 90800000,
+      "completion_date": "2023-03-02",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": "CC/46/2023/015",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-015.pdf",
+        "documents\\completion_certificate\\DOC-CC-015.pdf"
+      ],
+      "quality": null,
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-016",
+      "name": "Pumping Station \u2014 Tamil Nadu Pkg-16",
+      "client": "Tamil Nadu Municipal Corporation",
+      "category": "Water Treatment",
+      "value": 268000000,
+      "completion_date": "2013-03-02",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": "CC/4/2013/016",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-016.pdf",
+        "documents\\completion_certificate\\DOC-CC-016.pdf"
+      ],
+      "quality": null,
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-017",
+      "name": "Sewerage Network \u2014 Odisha Pkg-17",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Sewerage Drainage",
+      "value": 385400000,
+      "completion_date": "2024-03-27",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-017.pdf",
+        "documents\\completion_certificate\\DOC-CC-017.pdf",
+        "documents\\reference_letter\\DOC-REF-014.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-018",
+      "name": "Hospital Block \u2014 West Bengal Pkg-18",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Buildings",
+      "value": 98000000,
+      "completion_date": "2013-03-22",
+      "lead": "Deepa Chatterjee",
+      "client_certificate_ref": "CC/49/2013/018",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-018.pdf",
+        "documents\\completion_certificate\\DOC-CC-018.pdf",
+        "documents\\reference_letter\\DOC-REF-015.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-019",
+      "name": "Substation EPC \u2014 Tamil Nadu Pkg-19",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Industrial Epc",
+      "value": 153900000,
+      "completion_date": "2014-08-13",
+      "lead": "Suresh Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-019.pdf",
+        "documents\\completion_certificate\\DOC-CC-019.pdf",
+        "documents\\reference_letter\\DOC-REF-016.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-020",
+      "name": "Lift Irrigation \u2014 Madhya Pradesh Pkg-20",
+      "client": "National Expressway Development Authority",
+      "category": "Irrigation",
+      "value": 239200000,
+      "completion_date": "2013-07-07",
+      "lead": "Priya Patel",
+      "client_certificate_ref": "CC/20/2013/020",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-020.pdf",
+        "documents\\completion_certificate\\DOC-CC-020.pdf",
+        "documents\\reference_letter\\DOC-REF-017.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-021",
+      "name": "Road Widening \u2014 Maharashtra Pkg-21",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Roads Highways",
+      "value": 193300000,
+      "completion_date": "2011-04-22",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-021.pdf",
+        "documents\\completion_certificate\\DOC-CC-021.pdf",
+        "documents\\reference_letter\\DOC-REF-018.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-022",
+      "name": "RCC Bridge \u2014 Jharkhand Pkg-22",
+      "client": "Jharkhand Municipal Corporation",
+      "category": "Bridges Flyovers",
+      "value": 87400000,
+      "completion_date": "2013-06-01",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": "CC/55/2013/022",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-022.pdf",
+        "documents\\completion_certificate\\DOC-CC-022.pdf",
+        "documents\\reference_letter\\DOC-REF-019.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-023",
+      "name": "Water Treatment Plant \u2014 Madhya Pradesh Pkg-23",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Water Treatment",
+      "value": 349200000,
+      "completion_date": "2022-08-28",
+      "lead": "Pooja Bose",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-023.pdf",
+        "documents\\completion_certificate\\DOC-CC-023.pdf",
+        "documents\\reference_letter\\DOC-REF-020.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-024",
+      "name": "Stormwater Drainage \u2014 Madhya Pradesh Pkg-24",
+      "client": "Meridian Constructors & Co.",
+      "category": "Sewerage Drainage",
+      "value": 191900000,
+      "completion_date": "2018-04-13",
+      "lead": "Deepa Chatterjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-024.pdf",
+        "documents\\completion_certificate\\DOC-CC-024.pdf",
+        "documents\\reference_letter\\DOC-REF-021.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-025",
+      "name": "Residential Quarters \u2014 Uttar Pradesh Pkg-25",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Buildings",
+      "value": 417100000,
+      "completion_date": "2021-06-05",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": "CC/59/2021/025",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-025.pdf",
+        "documents\\completion_certificate\\DOC-CC-025.pdf",
+        "documents\\reference_letter\\DOC-REF-022.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-026",
+      "name": "Material Handling Plant \u2014 Uttar Pradesh Pkg-26",
+      "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+      "category": "Industrial Epc",
+      "value": 123300000,
+      "completion_date": "2025-07-16",
+      "lead": "Farhan Rao",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-026.pdf",
+        "documents\\completion_certificate\\DOC-CC-026.pdf",
+        "documents\\reference_letter\\DOC-REF-023.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-027",
+      "name": "Check Dam \u2014 Rajasthan Pkg-27",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Irrigation",
+      "value": 195200000,
+      "completion_date": "2023-09-07",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": "CC/5/2023/027",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-027.pdf",
+        "documents\\completion_certificate\\DOC-CC-027.pdf",
+        "documents\\reference_letter\\DOC-REF-024.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-028",
+      "name": "Rigid Pavement \u2014 Delhi Pkg-28",
+      "client": "Suvarna Projects Limited",
+      "category": "Roads Highways",
+      "value": 130200000,
+      "completion_date": "2019-05-19",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-028.pdf",
+        "documents\\completion_certificate\\DOC-CC-028.pdf",
+        "documents\\reference_letter\\DOC-REF-025.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-029",
+      "name": "ROB \u2014 Jharkhand Pkg-29",
+      "client": "Arunodaya Infrastructure",
+      "category": "Bridges Flyovers",
+      "value": 223800000,
+      "completion_date": "2023-07-12",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-029.pdf",
+        "documents\\completion_certificate\\DOC-CC-029.pdf",
+        "documents\\reference_letter\\DOC-REF-026.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-030",
+      "name": "WTP Augmentation \u2014 West Bengal Pkg-30",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Water Treatment",
+      "value": 182600000,
+      "completion_date": "2021-06-28",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": "CC/49/2021/030",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-030.pdf",
+        "documents\\completion_certificate\\DOC-CC-030.pdf",
+        "documents\\reference_letter\\DOC-REF-027.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-031",
+      "name": "STP \u2014 Uttar Pradesh Pkg-31",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Sewerage Drainage",
+      "value": 721000000,
+      "completion_date": "2024-11-08",
+      "lead": "Naveen Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-031.pdf",
+        "documents\\completion_certificate\\DOC-CC-031.pdf",
+        "documents\\reference_letter\\DOC-REF-028.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-032",
+      "name": "Institutional Building \u2014 Gujarat Pkg-32",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Buildings",
+      "value": 145700000,
+      "completion_date": "2023-12-07",
+      "lead": "Deepa Chatterjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-032.pdf",
+        "documents\\completion_certificate\\DOC-CC-032.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-033",
+      "name": "Process Piping Package \u2014 Gujarat Pkg-33",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Industrial Epc",
+      "value": 210400000,
+      "completion_date": "2017-09-02",
+      "lead": "Chandan Banerjee",
+      "client_certificate_ref": "CC/8/2017/033",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-033.pdf",
+        "documents\\completion_certificate\\DOC-CC-033.pdf",
+        "documents\\reference_letter\\DOC-REF-029.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-034",
+      "name": "Canal Lining \u2014 Delhi Pkg-34",
+      "client": "National Special Projects Office",
+      "category": "Irrigation",
+      "value": 413500000,
+      "completion_date": "2010-08-20",
+      "lead": "Priti Pillai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-034.pdf",
+        "documents\\completion_certificate\\DOC-CC-034.pdf",
+        "documents\\reference_letter\\DOC-REF-030.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-035",
+      "name": "Bituminous Overlay \u2014 Odisha Pkg-35",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Roads Highways",
+      "value": 27700000,
+      "completion_date": "2025-10-15",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": "CC/57/2025/035",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-035.pdf",
+        "documents\\completion_certificate\\DOC-CC-035.pdf",
+        "documents\\reference_letter\\DOC-REF-031.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-036",
+      "name": "ROB \u2014 Delhi Pkg-36",
+      "client": "Arunodaya Infrastructure",
+      "category": "Bridges Flyovers",
+      "value": 366300000,
+      "completion_date": "2016-05-11",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-036.pdf",
+        "documents\\completion_certificate\\DOC-CC-036.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-037",
+      "name": "WTP Augmentation \u2014 Delhi Pkg-37",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Water Treatment",
+      "value": 67500000,
+      "completion_date": "2020-08-27",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": "CC/42/2020/037",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-037.pdf",
+        "documents\\completion_certificate\\DOC-CC-037.pdf",
+        "documents\\reference_letter\\DOC-REF-032.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-038",
+      "name": "STP \u2014 Jharkhand Pkg-38",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Sewerage Drainage",
+      "value": 321400000,
+      "completion_date": "2013-09-07",
+      "lead": "Asha Nair",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-038.pdf",
+        "documents\\completion_certificate\\DOC-CC-038.pdf",
+        "documents\\reference_letter\\DOC-REF-033.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-039",
+      "name": "Hospital Block \u2014 Odisha Pkg-39",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Buildings",
+      "value": 181700000,
+      "completion_date": "2014-12-05",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-039.pdf",
+        "documents\\completion_certificate\\DOC-CC-039.pdf",
+        "documents\\reference_letter\\DOC-REF-034.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-040",
+      "name": "Process Piping Package \u2014 Uttar Pradesh Pkg-40",
+      "client": "National Expressway Development Authority",
+      "category": "Industrial Epc",
+      "value": 101300000,
+      "completion_date": "2014-07-17",
+      "lead": "Suresh Chopra",
+      "client_certificate_ref": "CC/37/2014/040",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-040.pdf",
+        "documents\\completion_certificate\\DOC-CC-040.pdf",
+        "documents\\reference_letter\\DOC-REF-035.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-041",
+      "name": "Lift Irrigation \u2014 Rajasthan Pkg-41",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Irrigation",
+      "value": 310700000,
+      "completion_date": "2021-07-26",
+      "lead": "Suresh Das",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-041.pdf",
+        "documents\\completion_certificate\\DOC-CC-041.pdf",
+        "documents\\reference_letter\\DOC-REF-036.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-042",
+      "name": "Road Widening \u2014 Madhya Pradesh Pkg-42",
+      "client": "Meridian Constructors & Co.",
+      "category": "Roads Highways",
+      "value": 182600000,
+      "completion_date": "2022-05-22",
+      "lead": "Lakshmi Ghosh",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-042.pdf",
+        "documents\\completion_certificate\\DOC-CC-042.pdf",
+        "documents\\reference_letter\\DOC-REF-037.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-043",
+      "name": "Flyover \u2014 Uttar Pradesh Pkg-43",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Bridges Flyovers",
+      "value": 140300000,
+      "completion_date": "2019-03-30",
+      "lead": "Priti Pillai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-043.pdf",
+        "documents\\completion_certificate\\DOC-CC-043.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-044",
+      "name": "Water Treatment Plant \u2014 West Bengal Pkg-44",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Water Treatment",
+      "value": 178300000,
+      "completion_date": "2016-04-16",
+      "lead": "Pooja Sen",
+      "client_certificate_ref": "CC/25/2016/044",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-044.pdf",
+        "documents\\completion_certificate\\DOC-CC-044.pdf",
+        "documents\\reference_letter\\DOC-REF-038.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-045",
+      "name": "STP \u2014 Odisha Pkg-45",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Sewerage Drainage",
+      "value": 182800000,
+      "completion_date": "2020-07-13",
+      "lead": "Naveen Roy",
+      "client_certificate_ref": "CC/23/2020/045",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-045.pdf",
+        "documents\\completion_certificate\\DOC-CC-045.pdf",
+        "documents\\reference_letter\\DOC-REF-039.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-046",
+      "name": "Hospital Block \u2014 West Bengal Pkg-46",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Buildings",
+      "value": 318900000,
+      "completion_date": "2016-02-03",
+      "lead": "Pooja Bose",
+      "client_certificate_ref": "CC/15/2016/046",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-046.pdf",
+        "documents\\completion_certificate\\DOC-CC-046.pdf",
+        "documents\\reference_letter\\DOC-REF-040.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-047",
+      "name": "Material Handling Plant \u2014 Uttar Pradesh Pkg-47",
+      "client": "National Expressway Development Authority",
+      "category": "Industrial Epc",
+      "value": 129400000,
+      "completion_date": "2013-09-20",
+      "lead": "Rajesh Rao",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-047.pdf",
+        "documents\\completion_certificate\\DOC-CC-047.pdf",
+        "documents\\reference_letter\\DOC-REF-041.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-048",
+      "name": "Canal Lining \u2014 Uttar Pradesh Pkg-48",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Irrigation",
+      "value": 135600000,
+      "completion_date": "2010-07-29",
+      "lead": "Gautam Joshi",
+      "client_certificate_ref": "CC/43/2010/048",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-048.pdf",
+        "documents\\completion_certificate\\DOC-CC-048.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-049",
+      "name": "Rigid Pavement \u2014 Madhya Pradesh Pkg-49",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Roads Highways",
+      "value": 298700000,
+      "completion_date": "2025-02-26",
+      "lead": "Rahul Das",
+      "client_certificate_ref": "CC/27/2025/049",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-049.pdf",
+        "documents\\completion_certificate\\DOC-CC-049.pdf",
+        "documents\\reference_letter\\DOC-REF-042.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-050",
+      "name": "RCC Bridge \u2014 Maharashtra Pkg-50",
+      "client": "Maharashtra Municipal Corporation",
+      "category": "Bridges Flyovers",
+      "value": 573700000,
+      "completion_date": "2021-02-28",
+      "lead": "Rajesh Rao",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-050.pdf",
+        "documents\\completion_certificate\\DOC-CC-050.pdf",
+        "documents\\reference_letter\\DOC-REF-043.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-051",
+      "name": "WTP Augmentation \u2014 West Bengal Pkg-51",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Water Treatment",
+      "value": 149200000,
+      "completion_date": "2022-12-16",
+      "lead": "Chandan Banerjee",
+      "client_certificate_ref": "CC/49/2022/051",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-051.pdf",
+        "documents\\completion_certificate\\DOC-CC-051.pdf",
+        "documents\\reference_letter\\DOC-REF-044.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-052",
+      "name": "Stormwater Drainage \u2014 Tamil Nadu Pkg-52",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Sewerage Drainage",
+      "value": 155200000,
+      "completion_date": "2015-02-10",
+      "lead": "Manoj Verma",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-052.pdf",
+        "documents\\completion_certificate\\DOC-CC-052.pdf",
+        "documents\\reference_letter\\DOC-REF-045.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-053",
+      "name": "Hospital Block \u2014 Rajasthan Pkg-53",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Buildings",
+      "value": 90300000,
+      "completion_date": "2015-07-28",
+      "lead": "Kavita Reddy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-053.pdf",
+        "documents\\completion_certificate\\DOC-CC-053.pdf",
+        "documents\\reference_letter\\DOC-REF-046.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-054",
+      "name": "Process Piping Package \u2014 Tamil Nadu Pkg-54",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Industrial Epc",
+      "value": 270500000,
+      "completion_date": "2015-06-06",
+      "lead": "Pooja Bose",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-054.pdf",
+        "documents\\completion_certificate\\DOC-CC-054.pdf",
+        "documents\\reference_letter\\DOC-REF-047.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-055",
+      "name": "Check Dam \u2014 Delhi Pkg-55",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Irrigation",
+      "value": 121300000,
+      "completion_date": "2017-06-23",
+      "lead": "Tanvir Malhotra",
+      "client_certificate_ref": "CC/42/2017/055",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-055.pdf",
+        "documents\\completion_certificate\\DOC-CC-055.pdf",
+        "documents\\reference_letter\\DOC-REF-048.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-056",
+      "name": "Rigid Pavement \u2014 Jharkhand Pkg-56",
+      "client": "National Expressway Development Authority",
+      "category": "Roads Highways",
+      "value": 211500000,
+      "completion_date": "2017-03-06",
+      "lead": "Meera Chatterjee",
+      "client_certificate_ref": "CC/54/2017/056",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-056.pdf",
+        "documents\\completion_certificate\\DOC-CC-056.pdf",
+        "documents\\reference_letter\\DOC-REF-049.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-057",
+      "name": "Box Culvert Chain \u2014 Madhya Pradesh Pkg-57",
+      "client": "Meridian Constructors & Co.",
+      "category": "Bridges Flyovers",
+      "value": 72900000,
+      "completion_date": "2020-10-21",
+      "lead": "Rohit Singh",
+      "client_certificate_ref": "CC/47/2020/057",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-057.pdf",
+        "documents\\completion_certificate\\DOC-CC-057.pdf",
+        "documents\\reference_letter\\DOC-REF-050.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-058",
+      "name": "Water Treatment Plant \u2014 Rajasthan Pkg-58",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Water Treatment",
+      "value": 263900000,
+      "completion_date": "2013-09-27",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-058.pdf",
+        "documents\\completion_certificate\\DOC-CC-058.pdf",
+        "documents\\reference_letter\\DOC-REF-051.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-059",
+      "name": "Stormwater Drainage \u2014 Odisha Pkg-59",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Sewerage Drainage",
+      "value": 225800000,
+      "completion_date": "2023-02-18",
+      "lead": "Jaya Desai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-059.pdf",
+        "documents\\completion_certificate\\DOC-CC-059.pdf",
+        "documents\\reference_letter\\DOC-REF-052.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-060",
+      "name": "Hospital Block \u2014 West Bengal Pkg-60",
+      "client": "Irrigation & Waterways Dept, Govt of West Bengal",
+      "category": "Buildings",
+      "value": 403700000,
+      "completion_date": "2024-09-07",
+      "lead": "Priti Pillai",
+      "client_certificate_ref": "CC/22/2024/060",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-060.pdf",
+        "documents\\completion_certificate\\DOC-CC-060.pdf",
+        "documents\\reference_letter\\DOC-REF-053.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-061",
+      "name": "Material Handling Plant \u2014 Jharkhand Pkg-61",
+      "client": "National Expressway Development Authority",
+      "category": "Industrial Epc",
+      "value": 449000000,
+      "completion_date": "2021-07-31",
+      "lead": "Gautam Joshi",
+      "client_certificate_ref": "CC/54/2021/061",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-061.pdf",
+        "documents\\completion_certificate\\DOC-CC-061.pdf",
+        "documents\\reference_letter\\DOC-REF-054.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-062",
+      "name": "Check Dam \u2014 Gujarat Pkg-62",
+      "client": "Public Works Department, Govt of Gujarat",
+      "category": "Irrigation",
+      "value": 467300000,
+      "completion_date": "2013-03-20",
+      "lead": "Naveen Roy",
+      "client_certificate_ref": "CC/35/2013/062",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-062.pdf",
+        "documents\\completion_certificate\\DOC-CC-062.pdf",
+        "documents\\reference_letter\\DOC-REF-055.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-063",
+      "name": "Bituminous Overlay \u2014 Odisha Pkg-63",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Roads Highways",
+      "value": 184400000,
+      "completion_date": "2020-10-29",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-063.pdf",
+        "documents\\completion_certificate\\DOC-CC-063.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-064",
+      "name": "RCC Bridge \u2014 Tamil Nadu Pkg-64",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Bridges Flyovers",
+      "value": 680900000,
+      "completion_date": "2017-01-26",
+      "lead": "Rahul Das",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-064.pdf",
+        "documents\\completion_certificate\\DOC-CC-064.pdf",
+        "documents\\reference_letter\\DOC-REF-056.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-065",
+      "name": "Pumping Station \u2014 Uttar Pradesh Pkg-65",
+      "client": "Jal Nigam, Uttar Pradesh",
+      "category": "Water Treatment",
+      "value": 284100000,
+      "completion_date": "2018-11-15",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-065.pdf",
+        "documents\\completion_certificate\\DOC-CC-065.pdf",
+        "documents\\reference_letter\\DOC-REF-057.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-066",
+      "name": "STP \u2014 Gujarat Pkg-66",
+      "client": "Public Health Engineering Dept, Gujarat",
+      "category": "Sewerage Drainage",
+      "value": 134000000,
+      "completion_date": "2017-07-04",
+      "lead": "Jaya Desai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-066.pdf",
+        "documents\\completion_certificate\\DOC-CC-066.pdf",
+        "documents\\reference_letter\\DOC-REF-058.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-067",
+      "name": "Residential Quarters \u2014 West Bengal Pkg-67",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Buildings",
+      "value": 161700000,
+      "completion_date": "2016-02-08",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-067.pdf",
+        "documents\\completion_certificate\\DOC-CC-067.pdf",
+        "documents\\reference_letter\\DOC-REF-059.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-068",
+      "name": "Material Handling Plant \u2014 Madhya Pradesh Pkg-68",
+      "client": "Mega Infrastructure Authority",
+      "category": "Industrial Epc",
+      "value": 434200000,
+      "completion_date": "2013-01-08",
+      "lead": "Priti Pillai",
+      "client_certificate_ref": "CC/16/2013/068",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-068.pdf",
+        "documents\\completion_certificate\\DOC-CC-068.pdf",
+        "documents\\reference_letter\\DOC-REF-060.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-069",
+      "name": "Check Dam \u2014 Maharashtra Pkg-69",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Irrigation",
+      "value": 491100000,
+      "completion_date": "2021-01-26",
+      "lead": "Rohit Singh",
+      "client_certificate_ref": "CC/11/2021/069",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-069.pdf",
+        "documents\\completion_certificate\\DOC-CC-069.pdf",
+        "documents\\reference_letter\\DOC-REF-061.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-070",
+      "name": "Rigid Pavement \u2014 Tamil Nadu Pkg-70",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Roads Highways",
+      "value": 682400000,
+      "completion_date": "2011-02-04",
+      "lead": "Meera Banerjee",
+      "client_certificate_ref": "CC/44/2011/070",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-070.pdf",
+        "documents\\completion_certificate\\DOC-CC-070.pdf",
+        "documents\\reference_letter\\DOC-REF-062.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-071",
+      "name": "ROB \u2014 Gujarat Pkg-71",
+      "client": "Jal Nigam, Gujarat",
+      "category": "Bridges Flyovers",
+      "value": 388100000,
+      "completion_date": "2025-02-20",
+      "lead": "Rohit Singh",
+      "client_certificate_ref": "CC/24/2025/071",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-071.pdf",
+        "documents\\completion_certificate\\DOC-CC-071.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-072",
+      "name": "WTP Augmentation \u2014 Jharkhand Pkg-72",
+      "client": "Jharkhand Municipal Corporation",
+      "category": "Water Treatment",
+      "value": 314600000,
+      "completion_date": "2010-12-11",
+      "lead": "Suresh Desai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-072.pdf",
+        "documents\\completion_certificate\\DOC-CC-072.pdf",
+        "documents\\reference_letter\\DOC-REF-063.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-073",
+      "name": "STP \u2014 West Bengal Pkg-73",
+      "client": "Suvarna Projects Limited",
+      "category": "Sewerage Drainage",
+      "value": 219900000,
+      "completion_date": "2012-06-11",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-073.pdf",
+        "documents\\completion_certificate\\DOC-CC-073.pdf",
+        "documents\\reference_letter\\DOC-REF-064.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-074",
+      "name": "Institutional Building \u2014 West Bengal Pkg-74",
+      "client": "Mega Infrastructure Authority",
+      "category": "Buildings",
+      "value": 128000000,
+      "completion_date": "2018-08-11",
+      "lead": "Rahul Das",
+      "client_certificate_ref": "CC/33/2018/074",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-074.pdf",
+        "documents\\completion_certificate\\DOC-CC-074.pdf",
+        "documents\\reference_letter\\DOC-REF-065.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-075",
+      "name": "Process Piping Package \u2014 Delhi Pkg-75",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Industrial Epc",
+      "value": 413400000,
+      "completion_date": "2023-11-09",
+      "lead": "Kavita Reddy",
+      "client_certificate_ref": "CC/42/2023/075",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-075.pdf",
+        "documents\\completion_certificate\\DOC-CC-075.pdf",
+        "documents\\reference_letter\\DOC-REF-066.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-076",
+      "name": "Check Dam \u2014 Delhi Pkg-76",
+      "client": "Suvarna Projects Limited",
+      "category": "Irrigation",
+      "value": 370400000,
+      "completion_date": "2017-10-23",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-076.pdf",
+        "documents\\completion_certificate\\DOC-CC-076.pdf",
+        "documents\\reference_letter\\DOC-REF-067.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-077",
+      "name": "Highway Construction \u2014 Rajasthan Pkg-77",
+      "client": "Arunodaya Infrastructure",
+      "category": "Roads Highways",
+      "value": 399000000,
+      "completion_date": "2013-10-23",
+      "lead": "Farhan Khan",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-077.pdf",
+        "documents\\completion_certificate\\DOC-CC-077.pdf",
+        "documents\\reference_letter\\DOC-REF-068.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-078",
+      "name": "Flyover \u2014 Jharkhand Pkg-78",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Bridges Flyovers",
+      "value": 98000000,
+      "completion_date": "2019-06-09",
+      "lead": "Tanvir Malhotra",
+      "client_certificate_ref": "CC/60/2019/078",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-078.pdf",
+        "documents\\completion_certificate\\DOC-CC-078.pdf",
+        "documents\\reference_letter\\DOC-REF-069.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-079",
+      "name": "Pumping Station \u2014 Odisha Pkg-79",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Water Treatment",
+      "value": 358600000,
+      "completion_date": "2018-06-30",
+      "lead": "Uma Sen",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-079.pdf",
+        "documents\\completion_certificate\\DOC-CC-079.pdf",
+        "documents\\reference_letter\\DOC-REF-070.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-080",
+      "name": "Stormwater Drainage \u2014 Gujarat Pkg-80",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Sewerage Drainage",
+      "value": 283800000,
+      "completion_date": "2013-03-12",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-080.pdf",
+        "documents\\completion_certificate\\DOC-CC-080.pdf",
+        "documents\\reference_letter\\DOC-REF-071.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-081",
+      "name": "Institutional Building \u2014 Delhi Pkg-81",
+      "client": "National Special Projects Office",
+      "category": "Buildings",
+      "value": 415800000,
+      "completion_date": "2025-04-21",
+      "lead": "Rahul Das",
+      "client_certificate_ref": "CC/51/2025/081",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-081.pdf",
+        "documents\\completion_certificate\\DOC-CC-081.pdf",
+        "documents\\reference_letter\\DOC-REF-072.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-082",
+      "name": "Process Piping Package \u2014 Delhi Pkg-82",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Industrial Epc",
+      "value": 414200000,
+      "completion_date": "2016-07-20",
+      "lead": "Meera Roy",
+      "client_certificate_ref": "CC/9/2016/082",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-082.pdf",
+        "documents\\completion_certificate\\DOC-CC-082.pdf",
+        "documents\\reference_letter\\DOC-REF-073.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-083",
+      "name": "Check Dam \u2014 Uttar Pradesh Pkg-83",
+      "client": "Mega Infrastructure Authority",
+      "category": "Irrigation",
+      "value": 314000000,
+      "completion_date": "2016-06-12",
+      "lead": "Uma Sen",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-083.pdf",
+        "documents\\completion_certificate\\DOC-CC-083.pdf",
+        "documents\\reference_letter\\DOC-REF-074.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-084",
+      "name": "Road Widening \u2014 Uttar Pradesh Pkg-84",
+      "client": "Jal Nigam, Uttar Pradesh",
+      "category": "Roads Highways",
+      "value": 58500000,
+      "completion_date": "2018-06-07",
+      "lead": "Tanvir Malhotra",
+      "client_certificate_ref": "CC/58/2018/084",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-084.pdf",
+        "documents\\completion_certificate\\DOC-CC-084.pdf",
+        "documents\\reference_letter\\DOC-REF-075.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-085",
+      "name": "ROB \u2014 Uttar Pradesh Pkg-85",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Bridges Flyovers",
+      "value": 251000000,
+      "completion_date": "2020-03-03",
+      "lead": "Amit Mukherjee",
+      "client_certificate_ref": "CC/59/2020/085",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-085.pdf",
+        "documents\\completion_certificate\\DOC-CC-085.pdf"
+      ],
+      "quality": null,
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-086",
+      "name": "Water Treatment Plant \u2014 Delhi Pkg-86",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Water Treatment",
+      "value": 164000000,
+      "completion_date": "2016-02-04",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-086.pdf",
+        "documents\\completion_certificate\\DOC-CC-086.pdf",
+        "documents\\reference_letter\\DOC-REF-076.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-087",
+      "name": "Sewerage Network \u2014 Maharashtra Pkg-87",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Sewerage Drainage",
+      "value": 176600000,
+      "completion_date": "2011-02-23",
+      "lead": "Imran Joshi",
+      "client_certificate_ref": "CC/52/2011/087",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-087.pdf",
+        "documents\\completion_certificate\\DOC-CC-087.pdf",
+        "documents\\reference_letter\\DOC-REF-077.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-088",
+      "name": "Residential Quarters \u2014 Delhi Pkg-88",
+      "client": "Arunodaya Infrastructure",
+      "category": "Buildings",
+      "value": 200500000,
+      "completion_date": "2023-10-25",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": "CC/48/2023/088",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-088.pdf",
+        "documents\\completion_certificate\\DOC-CC-088.pdf",
+        "documents\\reference_letter\\DOC-REF-078.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-089",
+      "name": "Material Handling Plant \u2014 Uttar Pradesh Pkg-89",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Industrial Epc",
+      "value": 136500000,
+      "completion_date": "2023-01-15",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": "CC/59/2023/089",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-089.pdf",
+        "documents\\completion_certificate\\DOC-CC-089.pdf",
+        "documents\\reference_letter\\DOC-REF-079.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-090",
+      "name": "Canal Lining \u2014 Tamil Nadu Pkg-90",
+      "client": "Public Works Department, Govt of Tamil Nadu",
+      "category": "Irrigation",
+      "value": 260900000,
+      "completion_date": "2014-06-20",
+      "lead": "Manoj Verma",
+      "client_certificate_ref": "CC/1/2014/090",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-090.pdf",
+        "documents\\completion_certificate\\DOC-CC-090.pdf",
+        "documents\\reference_letter\\DOC-REF-080.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-091",
+      "name": "Highway Construction \u2014 Maharashtra Pkg-91",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Roads Highways",
+      "value": 208700000,
+      "completion_date": "2012-02-05",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-091.pdf",
+        "documents\\completion_certificate\\DOC-CC-091.pdf",
+        "documents\\reference_letter\\DOC-REF-081.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-092",
+      "name": "Box Culvert Chain \u2014 Tamil Nadu Pkg-92",
+      "client": "Tamil Nadu Municipal Corporation",
+      "category": "Bridges Flyovers",
+      "value": 100500000,
+      "completion_date": "2012-02-14",
+      "lead": "Lakshmi Ghosh",
+      "client_certificate_ref": "CC/4/2012/092",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-092.pdf",
+        "documents\\completion_certificate\\DOC-CC-092.pdf",
+        "documents\\reference_letter\\DOC-REF-082.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-093",
+      "name": "WTP Augmentation \u2014 Maharashtra Pkg-93",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Water Treatment",
+      "value": 214200000,
+      "completion_date": "2021-05-26",
+      "lead": "Asha Nair",
+      "client_certificate_ref": "CC/52/2021/093",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-093.pdf",
+        "documents\\completion_certificate\\DOC-CC-093.pdf",
+        "documents\\reference_letter\\DOC-REF-083.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-094",
+      "name": "STP \u2014 Jharkhand Pkg-94",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Sewerage Drainage",
+      "value": 219300000,
+      "completion_date": "2014-09-14",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": "CC/60/2014/094",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-094.pdf",
+        "documents\\completion_certificate\\DOC-CC-094.pdf",
+        "documents\\reference_letter\\DOC-REF-084.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-095",
+      "name": "Institutional Building \u2014 Odisha Pkg-95",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Buildings",
+      "value": 352200000,
+      "completion_date": "2018-02-22",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-095.pdf",
+        "documents\\completion_certificate\\DOC-CC-095.pdf",
+        "documents\\reference_letter\\DOC-REF-085.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-096",
+      "name": "Material Handling Plant \u2014 Maharashtra Pkg-96",
+      "client": "Maharashtra Municipal Corporation",
+      "category": "Industrial Epc",
+      "value": 60800000,
+      "completion_date": "2013-05-04",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-096.pdf",
+        "documents\\completion_certificate\\DOC-CC-096.pdf",
+        "documents\\reference_letter\\DOC-REF-086.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-097",
+      "name": "Check Dam \u2014 Maharashtra Pkg-97",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Irrigation",
+      "value": 307300000,
+      "completion_date": "2018-04-12",
+      "lead": "Sanjay Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-097.pdf",
+        "documents\\completion_certificate\\DOC-CC-097.pdf",
+        "documents\\reference_letter\\DOC-REF-087.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-098",
+      "name": "Road Widening \u2014 Odisha Pkg-98",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Roads Highways",
+      "value": 148500000,
+      "completion_date": "2019-09-27",
+      "lead": "Suresh Das",
+      "client_certificate_ref": "CC/28/2019/098",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-098.pdf",
+        "documents\\completion_certificate\\DOC-CC-098.pdf",
+        "documents\\reference_letter\\DOC-REF-088.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-099",
+      "name": "Flyover \u2014 Delhi Pkg-99",
+      "client": "Meridian Constructors & Co.",
+      "category": "Bridges Flyovers",
+      "value": 231600000,
+      "completion_date": "2016-05-18",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-099.pdf",
+        "documents\\completion_certificate\\DOC-CC-099.pdf",
+        "documents\\reference_letter\\DOC-REF-089.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-100",
+      "name": "Pumping Station \u2014 Rajasthan Pkg-100",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Water Treatment",
+      "value": 177300000,
+      "completion_date": "2011-12-13",
+      "lead": "Priya Patel",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-100.pdf",
+        "documents\\completion_certificate\\DOC-CC-100.pdf",
+        "documents\\reference_letter\\DOC-REF-090.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-101",
+      "name": "Six-Lane Highway \u2014 Uttar Pradesh Pkg-101",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Expressways",
+      "value": 977200000,
+      "completion_date": "2018-02-08",
+      "lead": "Divya Singh",
+      "client_certificate_ref": "CC/32/2018/101",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-101.pdf",
+        "documents\\completion_certificate\\DOC-CC-101.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-102",
+      "name": "Rail Tunnel \u2014 Jharkhand Pkg-102",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Tunnels",
+      "value": 1722200000,
+      "completion_date": "2015-03-05",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": "CC/60/2015/102",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-102.pdf",
+        "documents\\completion_certificate\\DOC-CC-102.pdf",
+        "documents\\reference_letter\\DOC-REF-091.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-103",
+      "name": "Steel Truss Bridge \u2014 Maharashtra Pkg-103",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Large Bridges",
+      "value": 586900000,
+      "completion_date": "2010-09-30",
+      "lead": "Imran Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-103.pdf",
+        "documents\\completion_certificate\\DOC-CC-103.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-104",
+      "name": "Six-Lane Highway \u2014 Maharashtra Pkg-104",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Expressways",
+      "value": 860900000,
+      "completion_date": "2016-06-28",
+      "lead": "Amit Iyer",
+      "client_certificate_ref": "CC/26/2016/104",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-104.pdf",
+        "documents\\completion_certificate\\DOC-CC-104.pdf",
+        "documents\\reference_letter\\DOC-REF-092.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-105",
+      "name": "Hydro Tunnel \u2014 West Bengal Pkg-105",
+      "client": "Suvarna Projects Limited",
+      "category": "Tunnels",
+      "value": 1015700000,
+      "completion_date": "2018-04-02",
+      "lead": "Pooja Sen",
+      "client_certificate_ref": "CC/12/2018/105",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-105.pdf",
+        "documents\\completion_certificate\\DOC-CC-105.pdf",
+        "documents\\reference_letter\\DOC-REF-093.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-106",
+      "name": "Extradosed Bridge \u2014 Gujarat Pkg-106",
+      "client": "National Special Projects Office",
+      "category": "Large Bridges",
+      "value": 400000000,
+      "completion_date": "2012-12-08",
+      "lead": "Kavita Reddy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-106.pdf",
+        "documents\\completion_certificate\\DOC-CC-106.pdf",
+        "documents\\reference_letter\\DOC-REF-094.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-107",
+      "name": "Ring Road \u2014 Uttar Pradesh Pkg-107",
+      "client": "National Expressway Development Authority",
+      "category": "Expressways",
+      "value": 1329700000,
+      "completion_date": "2012-08-16",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": "CC/3/2012/107",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-107.pdf",
+        "documents\\completion_certificate\\DOC-CC-107.pdf",
+        "documents\\reference_letter\\DOC-REF-095.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-108",
+      "name": "Hydro Tunnel \u2014 Madhya Pradesh Pkg-108",
+      "client": "Mega Infrastructure Authority",
+      "category": "Tunnels",
+      "value": 1988800000,
+      "completion_date": "2014-10-25",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": "CC/16/2014/108",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-108.pdf",
+        "documents\\completion_certificate\\DOC-CC-108.pdf",
+        "documents\\reference_letter\\DOC-REF-096.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-109",
+      "name": "Cable Stayed Bridge \u2014 Delhi Pkg-109",
+      "client": "National Special Projects Office",
+      "category": "Large Bridges",
+      "value": 1136000000,
+      "completion_date": "2013-12-24",
+      "lead": "Naveen Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-109.pdf",
+        "documents\\completion_certificate\\DOC-CC-109.pdf",
+        "documents\\reference_letter\\DOC-REF-097.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-110",
+      "name": "Greenfield Expressway \u2014 West Bengal Pkg-110",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Expressways",
+      "value": 2000000000,
+      "completion_date": "2015-01-12",
+      "lead": "Farhan Rao",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-110.pdf",
+        "documents\\completion_certificate\\DOC-CC-110.pdf",
+        "documents\\reference_letter\\DOC-REF-098.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-111",
+      "name": "Rail Tunnel \u2014 Rajasthan Pkg-111",
+      "client": "Arunodaya Infrastructure",
+      "category": "Tunnels",
+      "value": 526300000,
+      "completion_date": "2019-04-14",
+      "lead": "Lakshmi Ghosh",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-111.pdf",
+        "documents\\completion_certificate\\DOC-CC-111.pdf",
+        "documents\\reference_letter\\DOC-REF-099.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-112",
+      "name": "Steel Truss Bridge \u2014 Gujarat Pkg-112",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Large Bridges",
+      "value": 1061900000,
+      "completion_date": "2019-05-31",
+      "lead": "Lakshmi Ghosh",
+      "client_certificate_ref": "CC/8/2019/112",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-112.pdf",
+        "documents\\completion_certificate\\DOC-CC-112.pdf",
+        "documents\\reference_letter\\DOC-REF-100.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-113",
+      "name": "Ring Road \u2014 Uttar Pradesh Pkg-113",
+      "client": "National Special Projects Office",
+      "category": "Expressways",
+      "value": 2000000000,
+      "completion_date": "2022-07-10",
+      "lead": "Priya Patel",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-113.pdf",
+        "documents\\completion_certificate\\DOC-CC-113.pdf",
+        "documents\\reference_letter\\DOC-REF-101.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-114",
+      "name": "Rail Tunnel \u2014 Gujarat Pkg-114",
+      "client": "Jal Nigam, Gujarat",
+      "category": "Tunnels",
+      "value": 1277800000,
+      "completion_date": "2010-08-23",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-114.pdf",
+        "documents\\completion_certificate\\DOC-CC-114.pdf",
+        "documents\\reference_letter\\DOC-REF-102.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-115",
+      "name": "Cable Stayed Bridge \u2014 Jharkhand Pkg-115",
+      "client": "Jal Nigam, Jharkhand",
+      "category": "Large Bridges",
+      "value": 814400000,
+      "completion_date": "2018-02-23",
+      "lead": "Asha Nair",
+      "client_certificate_ref": "CC/7/2018/115",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-115.pdf",
+        "documents\\completion_certificate\\DOC-CC-115.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-116",
+      "name": "Six-Lane Highway \u2014 West Bengal Pkg-116",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Expressways",
+      "value": 2000000000,
+      "completion_date": "2020-02-11",
+      "lead": "Chandan Banerjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-116.pdf",
+        "documents\\completion_certificate\\DOC-CC-116.pdf",
+        "documents\\reference_letter\\DOC-REF-103.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-117",
+      "name": "Hydro Tunnel \u2014 Jharkhand Pkg-117",
+      "client": "Arunodaya Infrastructure",
+      "category": "Tunnels",
+      "value": 474100000,
+      "completion_date": "2022-03-19",
+      "lead": "Meera Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-117.pdf",
+        "documents\\completion_certificate\\DOC-CC-117.pdf",
+        "documents\\reference_letter\\DOC-REF-104.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-118",
+      "name": "Steel Truss Bridge \u2014 Rajasthan Pkg-118",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Large Bridges",
+      "value": 400000000,
+      "completion_date": "2017-10-02",
+      "lead": "Priya Gupta",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-118.pdf",
+        "documents\\completion_certificate\\DOC-CC-118.pdf",
+        "documents\\reference_letter\\DOC-REF-105.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-119",
+      "name": "Six-Lane Highway \u2014 Tamil Nadu Pkg-119",
+      "client": "Tamil Nadu Municipal Corporation",
+      "category": "Expressways",
+      "value": 1464800000,
+      "completion_date": "2018-09-22",
+      "lead": "Priya Gupta",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-119.pdf",
+        "documents\\completion_certificate\\DOC-CC-119.pdf",
+        "documents\\reference_letter\\DOC-REF-106.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-120",
+      "name": "Highway Tunnel \u2014 West Bengal Pkg-120",
+      "client": "Irrigation & Waterways Dept, Govt of West Bengal",
+      "category": "Tunnels",
+      "value": 746600000,
+      "completion_date": "2023-05-20",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-120.pdf",
+        "documents\\completion_certificate\\DOC-CC-120.pdf",
+        "documents\\reference_letter\\DOC-REF-107.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-121",
+      "name": "Cable Stayed Bridge \u2014 Uttar Pradesh Pkg-121",
+      "client": "Jal Nigam, Uttar Pradesh",
+      "category": "Large Bridges",
+      "value": 910400000,
+      "completion_date": "2011-02-12",
+      "lead": "Tanvir Malhotra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-121.pdf",
+        "documents\\completion_certificate\\DOC-CC-121.pdf",
+        "documents\\reference_letter\\DOC-REF-108.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-122",
+      "name": "Six-Lane Highway \u2014 Odisha Pkg-122",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Expressways",
+      "value": 400000000,
+      "completion_date": "2011-06-12",
+      "lead": "Imran Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-122.pdf",
+        "documents\\completion_certificate\\DOC-CC-122.pdf",
+        "documents\\reference_letter\\DOC-REF-109.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-123",
+      "name": "Rail Tunnel \u2014 West Bengal Pkg-123",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Tunnels",
+      "value": 400000000,
+      "completion_date": "2010-02-26",
+      "lead": "Jaya Desai",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-123.pdf",
+        "documents\\completion_certificate\\DOC-CC-123.pdf",
+        "documents\\reference_letter\\DOC-REF-110.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-124",
+      "name": "Extradosed Bridge \u2014 Rajasthan Pkg-124",
+      "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+      "category": "Large Bridges",
+      "value": 775900000,
+      "completion_date": "2021-03-01",
+      "lead": "Amit Mukherjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-124.pdf",
+        "documents\\completion_certificate\\DOC-CC-124.pdf",
+        "documents\\reference_letter\\DOC-REF-111.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-125",
+      "name": "Ring Road \u2014 Maharashtra Pkg-125",
+      "client": "Public Works Department, Govt of Maharashtra",
+      "category": "Expressways",
+      "value": 529900000,
+      "completion_date": "2010-03-01",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-125.pdf",
+        "documents\\completion_certificate\\DOC-CC-125.pdf",
+        "documents\\reference_letter\\DOC-REF-112.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-126",
+      "name": "Hydro Tunnel \u2014 West Bengal Pkg-126",
+      "client": "Mega Infrastructure Authority",
+      "category": "Tunnels",
+      "value": 954600000,
+      "completion_date": "2010-08-13",
+      "lead": "Priti Pillai",
+      "client_certificate_ref": "CC/33/2010/126",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-126.pdf",
+        "documents\\completion_certificate\\DOC-CC-126.pdf",
+        "documents\\reference_letter\\DOC-REF-113.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-127",
+      "name": "Extradosed Bridge \u2014 Madhya Pradesh Pkg-127",
+      "client": "Meridian Constructors & Co.",
+      "category": "Large Bridges",
+      "value": 1298800000,
+      "completion_date": "2020-11-13",
+      "lead": "Suresh Desai",
+      "client_certificate_ref": "CC/47/2020/127",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-127.pdf",
+        "documents\\completion_certificate\\DOC-CC-127.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-128",
+      "name": "Ring Road \u2014 West Bengal Pkg-128",
+      "client": "Public Works Department, Govt of West Bengal",
+      "category": "Expressways",
+      "value": 400000000,
+      "completion_date": "2023-05-23",
+      "lead": "Amit Iyer",
+      "client_certificate_ref": "CC/18/2023/128",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-128.pdf",
+        "documents\\completion_certificate\\DOC-CC-128.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-129",
+      "name": "Hydro Tunnel \u2014 Uttar Pradesh Pkg-129",
+      "client": "National Expressway Development Authority",
+      "category": "Tunnels",
+      "value": 400000000,
+      "completion_date": "2016-04-20",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": "CC/37/2016/129",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-129.pdf",
+        "documents\\completion_certificate\\DOC-CC-129.pdf",
+        "documents\\reference_letter\\DOC-REF-114.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-130",
+      "name": "Extradosed Bridge \u2014 Uttar Pradesh Pkg-130",
+      "client": "Jal Nigam, Uttar Pradesh",
+      "category": "Large Bridges",
+      "value": 414500000,
+      "completion_date": "2018-05-18",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": "CC/58/2018/130",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-130.pdf",
+        "documents\\completion_certificate\\DOC-CC-130.pdf",
+        "documents\\reference_letter\\DOC-REF-115.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-131",
+      "name": "Pipeline Laying \u2014 Jharkhand Pkg-131",
+      "client": "Jal Nigam, Jharkhand",
+      "category": "Water Supply",
+      "value": 69200000,
+      "completion_date": "2021-08-17",
+      "lead": "Gautam Joshi",
+      "client_certificate_ref": "CC/7/2021/131",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-131.pdf",
+        "documents\\completion_certificate\\DOC-CC-131.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-132",
+      "name": "Patch Repair \u2014 Delhi Pkg-132",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Roads Maintenance",
+      "value": 20400000,
+      "completion_date": "2015-02-17",
+      "lead": "Imran Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-132.pdf",
+        "documents\\completion_certificate\\DOC-CC-132.pdf",
+        "documents\\reference_letter\\DOC-REF-116.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-133",
+      "name": "Community Centre \u2014 Jharkhand Pkg-133",
+      "client": "Central Works & Buildings Bureau",
+      "category": "Small Buildings",
+      "value": 68700000,
+      "completion_date": "2012-03-25",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-133.pdf",
+        "documents\\completion_certificate\\DOC-CC-133.pdf",
+        "documents\\reference_letter\\DOC-REF-117.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-134",
+      "name": "Handpump Installation \u2014 Uttar Pradesh Pkg-134",
+      "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+      "category": "Water Supply",
+      "value": 48000000,
+      "completion_date": "2024-12-27",
+      "lead": "Naveen Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-134.pdf",
+        "documents\\completion_certificate\\DOC-CC-134.pdf",
+        "documents\\reference_letter\\DOC-REF-118.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-135",
+      "name": "Drainage Works \u2014 Gujarat Pkg-135",
+      "client": "Public Health Engineering Dept, Gujarat",
+      "category": "Roads Maintenance",
+      "value": 23300000,
+      "completion_date": "2010-10-16",
+      "lead": "Priya Gupta",
+      "client_certificate_ref": "CC/40/2010/135",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-135.pdf",
+        "documents\\completion_certificate\\DOC-CC-135.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-136",
+      "name": "School Building \u2014 Odisha Pkg-136",
+      "client": "Public Health Engineering Dept, Odisha",
+      "category": "Small Buildings",
+      "value": 12200000,
+      "completion_date": "2015-05-08",
+      "lead": "Rajesh Rao",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-136.pdf",
+        "documents\\completion_certificate\\DOC-CC-136.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-137",
+      "name": "Pipeline Laying \u2014 Delhi Pkg-137",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Water Supply",
+      "value": 19200000,
+      "completion_date": "2018-01-31",
+      "lead": "Tanvir Menon",
+      "client_certificate_ref": "CC/42/2018/137",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-137.pdf",
+        "documents\\completion_certificate\\DOC-CC-137.pdf",
+        "documents\\reference_letter\\DOC-REF-119.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-138",
+      "name": "Patch Repair \u2014 Gujarat Pkg-138",
+      "client": "Public Works Department, Govt of Gujarat",
+      "category": "Roads Maintenance",
+      "value": 12000000,
+      "completion_date": "2018-03-02",
+      "lead": "Amit Mukherjee",
+      "client_certificate_ref": "CC/35/2018/138",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-138.pdf",
+        "documents\\completion_certificate\\DOC-CC-138.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-139",
+      "name": "Community Centre \u2014 Uttar Pradesh Pkg-139",
+      "client": "National Expressway Development Authority",
+      "category": "Small Buildings",
+      "value": 28000000,
+      "completion_date": "2020-01-30",
+      "lead": "Amit Iyer",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-139.pdf",
+        "documents\\completion_certificate\\DOC-CC-139.pdf",
+        "documents\\reference_letter\\DOC-REF-120.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-140",
+      "name": "Pipeline Laying \u2014 Maharashtra Pkg-140",
+      "client": "Peninsular Petroleum Corporation",
+      "category": "Water Supply",
+      "value": 28200000,
+      "completion_date": "2019-08-28",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-140.pdf",
+        "documents\\completion_certificate\\DOC-CC-140.pdf",
+        "documents\\reference_letter\\DOC-REF-121.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-141",
+      "name": "Drainage Works \u2014 Tamil Nadu Pkg-141",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Roads Maintenance",
+      "value": 39900000,
+      "completion_date": "2023-04-12",
+      "lead": "Jaya Desai",
+      "client_certificate_ref": "CC/44/2023/141",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-141.pdf",
+        "documents\\completion_certificate\\DOC-CC-141.pdf",
+        "documents\\reference_letter\\DOC-REF-122.pdf"
+      ],
+      "quality": null,
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-142",
+      "name": "Anganwadi Centre \u2014 Jharkhand Pkg-142",
+      "client": "National Expressway Development Authority",
+      "category": "Small Buildings",
+      "value": 54300000,
+      "completion_date": "2013-03-09",
+      "lead": "Priya Patel",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-142.pdf",
+        "documents\\completion_certificate\\DOC-CC-142.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-143",
+      "name": "Pipeline Laying \u2014 Tamil Nadu Pkg-143",
+      "client": "Mahanadi Steel Corporation",
+      "category": "Water Supply",
+      "value": 31400000,
+      "completion_date": "2016-11-04",
+      "lead": "Sunita Joshi",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-143.pdf",
+        "documents\\completion_certificate\\DOC-CC-143.pdf",
+        "documents\\reference_letter\\DOC-REF-123.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-144",
+      "name": "Drainage Works \u2014 Uttar Pradesh Pkg-144",
+      "client": "Lakshya Engineering & Construction",
+      "category": "Roads Maintenance",
+      "value": 56700000,
+      "completion_date": "2017-01-03",
+      "lead": "Neha Chopra",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-144.pdf",
+        "documents\\completion_certificate\\DOC-CC-144.pdf",
+        "documents\\reference_letter\\DOC-REF-124.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-145",
+      "name": "School Building \u2014 Madhya Pradesh Pkg-145",
+      "client": "Mega Infrastructure Authority",
+      "category": "Small Buildings",
+      "value": 30000000,
+      "completion_date": "2025-06-26",
+      "lead": "Asha Nair",
+      "client_certificate_ref": "CC/16/2025/145",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-145.pdf",
+        "documents\\completion_certificate\\DOC-CC-145.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-146",
+      "name": "Mini Water Supply \u2014 Madhya Pradesh Pkg-146",
+      "client": "Suvarna Projects Limited",
+      "category": "Water Supply",
+      "value": 28000000,
+      "completion_date": "2014-02-10",
+      "lead": "Amit Iyer",
+      "client_certificate_ref": "CC/29/2014/146",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-146.pdf",
+        "documents\\completion_certificate\\DOC-CC-146.pdf",
+        "documents\\reference_letter\\DOC-REF-125.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-147",
+      "name": "Patch Repair \u2014 Maharashtra Pkg-147",
+      "client": "Maharashtra Municipal Corporation",
+      "category": "Roads Maintenance",
+      "value": 19000000,
+      "completion_date": "2021-08-18",
+      "lead": "Lakshmi Ghosh",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-147.pdf",
+        "documents\\completion_certificate\\DOC-CC-147.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-148",
+      "name": "School Building \u2014 Delhi Pkg-148",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Small Buildings",
+      "value": 15400000,
+      "completion_date": "2022-04-16",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-148.pdf",
+        "documents\\completion_certificate\\DOC-CC-148.pdf",
+        "documents\\reference_letter\\DOC-REF-126.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-149",
+      "name": "Mini Water Supply \u2014 Delhi Pkg-149",
+      "client": "Suvarna Projects Limited",
+      "category": "Water Supply",
+      "value": 10600000,
+      "completion_date": "2011-04-10",
+      "lead": "Deepa Chatterjee",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-149.pdf",
+        "documents\\completion_certificate\\DOC-CC-149.pdf",
+        "documents\\reference_letter\\DOC-REF-127.pdf"
+      ],
+      "quality": "Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-150",
+      "name": "Rural Road Upgradation \u2014 Jharkhand Pkg-150",
+      "client": "Arunodaya Infrastructure",
+      "category": "Roads Maintenance",
+      "value": 29900000,
+      "completion_date": "2017-09-26",
+      "lead": "Divya Singh",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-150.pdf",
+        "documents\\completion_certificate\\DOC-CC-150.pdf",
+        "documents\\reference_letter\\DOC-REF-128.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-151",
+      "name": "Anganwadi Centre \u2014 Gujarat Pkg-151",
+      "client": "Trishakti Power Generation Corporation",
+      "category": "Small Buildings",
+      "value": 25000000,
+      "completion_date": "2020-06-03",
+      "lead": "Farhan Roy",
+      "client_certificate_ref": null,
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-151.pdf",
+        "documents\\completion_certificate\\DOC-CC-151.pdf",
+        "documents\\reference_letter\\DOC-REF-129.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-152",
+      "name": "Mini Water Supply \u2014 West Bengal Pkg-152",
+      "client": "Irrigation & Waterways Dept, Govt of West Bengal",
+      "category": "Water Supply",
+      "value": 16700000,
+      "completion_date": "2025-02-17",
+      "lead": "Kavita Reddy",
+      "client_certificate_ref": "CC/22/2025/152",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-152.pdf",
+        "documents\\completion_certificate\\DOC-CC-152.pdf",
+        "documents\\reference_letter\\DOC-REF-130.pdf"
+      ],
+      "quality": "Very Good",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-153",
+      "name": "Rural Road Upgradation \u2014 Jharkhand Pkg-153",
+      "client": "Jharkhand Municipal Corporation",
+      "category": "Roads Maintenance",
+      "value": 69500000,
+      "completion_date": "2017-11-03",
+      "lead": "Rahul Menon",
+      "client_certificate_ref": "CC/55/2017/153",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-153.pdf",
+        "documents\\completion_certificate\\DOC-CC-153.pdf"
+      ],
+      "quality": "Excellent",
+      "reference_letter": false,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-154",
+      "name": "School Building \u2014 Delhi Pkg-154",
+      "client": "Subarnarekha Valley Corporation",
+      "category": "Small Buildings",
+      "value": 19400000,
+      "completion_date": "2017-09-05",
+      "lead": "Uma Sen",
+      "client_certificate_ref": "CC/9/2017/154",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-154.pdf",
+        "documents\\completion_certificate\\DOC-CC-154.pdf",
+        "documents\\reference_letter\\DOC-REF-131.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    },
+    {
+      "id": "DOC-CCC-155",
+      "name": "Handpump Installation \u2014 Gujarat Pkg-155",
+      "client": "Gujarat Municipal Corporation",
+      "category": "Water Supply",
+      "value": 16400000,
+      "completion_date": "2024-08-28",
+      "lead": "Suresh Desai",
+      "client_certificate_ref": "CC/38/2024/155",
+      "documents": [
+        "documents\\company_completion_certificate\\DOC-CCC-155.pdf",
+        "documents\\completion_certificate\\DOC-CC-155.pdf",
+        "documents\\reference_letter\\DOC-REF-132.pdf"
+      ],
+      "quality": "Satisfactory",
+      "reference_letter": true,
+      "role": null
+    }
+  ],
+  "credentials": [
+    {
+      "person": "Neha Chopra",
+      "type": "PMP",
+      "id": "PMI-200006",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-006.pdf"
+    },
+    {
+      "person": "Pooja Bose",
+      "type": "PMP",
+      "id": "PMI-200007",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-007.pdf"
+    },
+    {
+      "person": "Manoj Kapoor",
+      "type": "PMP",
+      "id": "PMI-200008",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-008.pdf"
+    },
+    {
+      "person": "Amit Iyer",
+      "type": "PMP",
+      "id": "PMI-200009",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-009.pdf"
+    },
+    {
+      "person": "Farhan Roy",
+      "type": "PMP",
+      "id": "PMI-200010",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-010.pdf"
+    },
+    {
+      "person": "Meera Roy",
+      "type": "PMP",
+      "id": "PMI-200011",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-011.pdf"
+    },
+    {
+      "person": "Chandan Banerjee",
+      "type": "PMP",
+      "id": "PMI-200012",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-012.pdf"
+    },
+    {
+      "person": "Kavita Reddy",
+      "type": "PMP",
+      "id": "PMI-200013",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-013.pdf"
+    },
+    {
+      "person": "Priya Patel",
+      "type": "PMP",
+      "id": "PMI-200014",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-014.pdf"
+    },
+    {
+      "person": "Asha Bose",
+      "type": "PMP",
+      "id": "PMI-200015",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-015.pdf"
+    },
+    {
+      "person": "Lakshmi Ghosh",
+      "type": "PMP",
+      "id": "PMI-200016",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-016.pdf"
+    },
+    {
+      "person": "Deepa Chatterjee",
+      "type": "PMP",
+      "id": "PMI-200017",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-017.pdf"
+    },
+    {
+      "person": "Priya Gupta",
+      "type": "PMP",
+      "id": "PMI-200018",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-018.pdf"
+    },
+    {
+      "person": "Pooja Sen",
+      "type": "PMP",
+      "id": "PMI-200019",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-019.pdf"
+    },
+    {
+      "person": "Tanvir Menon",
+      "type": "PMP",
+      "id": "PMI-200020",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-020.pdf"
+    },
+    {
+      "person": "Imran Joshi",
+      "type": "PMP",
+      "id": "PMI-200021",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-021.pdf"
+    },
+    {
+      "person": "Divya Singh",
+      "type": "PMP",
+      "id": "PMI-200022",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-022.pdf"
+    },
+    {
+      "person": "Meera Chatterjee",
+      "type": "PMP",
+      "id": "PMI-200023",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-023.pdf"
+    },
+    {
+      "person": "Amit Mukherjee",
+      "type": "PMP",
+      "id": "PMI-200024",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-024.pdf"
+    },
+    {
+      "person": "Suresh Desai",
+      "type": "PMP",
+      "id": "PMI-200025",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-025.pdf"
+    },
+    {
+      "person": "Manoj Verma",
+      "type": "PMP",
+      "id": "PMI-200026",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-026.pdf"
+    },
+    {
+      "person": "Sanjay Joshi",
+      "type": "PMP",
+      "id": "PMI-200027",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-027.pdf"
+    },
+    {
+      "person": "Rahul Das",
+      "type": "PMP",
+      "id": "PMI-200028",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-028.pdf"
+    },
+    {
+      "person": "Rahul Menon",
+      "type": "PMP",
+      "id": "PMI-200029",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-029.pdf"
+    },
+    {
+      "person": "Asha Nair",
+      "type": "PMP",
+      "id": "PMI-200030",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-030.pdf"
+    },
+    {
+      "person": "Rajesh Rao",
+      "type": "PMP",
+      "id": "PMI-200031",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-031.pdf"
+    },
+    {
+      "person": "Jaya Desai",
+      "type": "PMP",
+      "id": "PMI-200032",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-032.pdf"
+    },
+    {
+      "person": "Rohit Singh",
+      "type": "PMP",
+      "id": "PMI-200033",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-033.pdf"
+    },
+    {
+      "person": "Suresh Chopra",
+      "type": "PMP",
+      "id": "PMI-200034",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-034.pdf"
+    },
+    {
+      "person": "Farhan Rao",
+      "type": "PMP",
+      "id": "PMI-200035",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-035.pdf"
+    },
+    {
+      "person": "Suresh Das",
+      "type": "PMP",
+      "id": "PMI-200036",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-036.pdf"
+    },
+    {
+      "person": "Priti Pillai",
+      "type": "PMP",
+      "id": "PMI-200037",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-037.pdf"
+    },
+    {
+      "person": "Meera Banerjee",
+      "type": "PMP",
+      "id": "PMI-200038",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-038.pdf"
+    },
+    {
+      "person": "Sunita Joshi",
+      "type": "PMP",
+      "id": "PMI-200039",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-039.pdf"
+    },
+    {
+      "person": "Tanvir Malhotra",
+      "type": "PMP",
+      "id": "PMI-200040",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-040.pdf"
+    },
+    {
+      "person": "Uma Sen",
+      "type": "PMP",
+      "id": "PMI-200041",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-041.pdf"
+    },
+    {
+      "person": "Naveen Roy",
+      "type": "PMP",
+      "id": "PMI-200042",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-042.pdf"
+    },
+    {
+      "person": "Gautam Joshi",
+      "type": "PMP",
+      "id": "PMI-200043",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-043.pdf"
+    },
+    {
+      "person": "Farhan Khan",
+      "type": "PMP",
+      "id": "PMI-200044",
+      "issued": "2021-03-10",
+      "document": "documents\\personnel_certificate\\DOC-PCERT-044.pdf"
+    }
+  ],
+  "nodes": {
+    "Project": 155,
+    "Client": 28,
+    "Person": 37
+  },
+  "edges": {
+    "COMMISSIONED_BY": 155,
+    "LED_BY": 155,
+    "HAS_REFERENCE_LETTER": 132
+  }
+}
