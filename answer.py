@@ -9,7 +9,7 @@ from langchain_core.prompts import PromptTemplate
 # 🛑 PASTE YOUR GROQ API KEY HERE 🛑
 # Get a free key at: console.groq.com
 # ==========================================
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "yourkey"
 
 def generate_submission_optimized(kg_file_path, questions_file_path, output_jsonl_path):
     # 1. Load your DataFrames
